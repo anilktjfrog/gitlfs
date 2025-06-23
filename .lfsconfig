@@ -1,2 +1,2 @@
 [lfs]
-url="ssh://admin@k8s-jfrogpla-jfrogpla-d9bc61fa5c-adf0b9e2230d87a6.elb.ap-south-1.amazonaws.com/artifactory/gitlfs"
+url="ssh://admin@k8s-jfrogpla-jfrogpla-d9bc61fa5c-adf0b9e2230d87a6.elb.ap-south-1.amazonaws.com:1339/artifactory/gitlfs"
